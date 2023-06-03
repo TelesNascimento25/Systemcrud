@@ -12,11 +12,6 @@ Essa é uma aplicação de CRUD básico em que consiste em manipular dados no ba
 - Atualiza dados de uma pessoa do sistema.
 - Deleta uma pessoa do sistema.
 
-## VERSIONAMENTO :
-
-Versão do Java: 17
-
-Versão do Spring Boot: 3.0.2
 
 ## FERRAMENTAS :
 
@@ -49,14 +44,3 @@ Programas Utilizados :
 Bancos de Dados :
 
     PostgreSQL - Usado em ambiente de desenvolvimento e produção.
-
-- Schema :
-
-<img src="https://user-images.githubusercontent.com/85299065/218934839-23a71182-808e-471b-8314-878347971218.PNG" width="60%" height="60%">
-
-
-## LINKS ADICIONAIS :
-
-Explicação da API em vídeo no YouTube : https://youtu.be/VK-RJPl1ALg
-
-Perfil no Linkedin : https://www.linkedin.com/in/victoralmada/
